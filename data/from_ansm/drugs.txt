@@ -1,0 +1,625 @@
+medicament
+lamivudine  abacavir
+allopurinol
+éplérénone
+acide tiaprofenique
+sertraline
+temsirolimus
+ribavirine
+diosmectite
+acide zolédronique monohydraté
+nifedipine
+olmesartan medoxomil
+prednisolone
+répaglinide
+nabumetone
+sitagliptine  monohydrate
+vardenafil  trihydrate
+diclofenac
+ethinylestradiol
+tigecycline
+amorolfine
+cystine
+flecainide
+ciclosporine
+clobétasol
+diclofénac de diéthylamine
+ropinirole
+alcool dichloro benzylique
+levodopa
+lamotrigine
+carbamazepine
+octreotide
+scopolamine
+acide tranexamique
+bisacodyl
+clindamycine  hydrate
+doxylamine
+voriconazole
+granisetron
+milnacipran
+paracetamol
+baclofene
+escitalopram
+clopidogrel
+anastrozole
+tazobactam sodique
+domperidone
+bicarbonate de sodium
+cefradine
+everolimus
+ivabradine
+acetate dabiraterone
+budesonide
+chlorobutanol hémihydraté
+élétriptan
+nalbuphine
+glibenclamide
+trabectedine
+tadalafil
+fluorométholone
+gemcitabine
+chlorure de benzalkonium
+buspirone
+ulipristal
+lévonorgestrel
+ébastine
+nimésulide
+moxifloxacine
+lorazepam
+cholécalciférol
+propofol
+esketamine
+naltrexone
+anagrelide  monohydrate
+cloxacilline sodique
+calcitonine
+modafinil
+fluvastatine sodique
+betahistine
+prasugrel 
+cafeine
+vincristine
+pipéracilline sodique
+desflurane
+chlorure de sodium
+phloroglucinol dihydraté
+naloxone  dihydrate
+lisinopril
+exémestane
+diosmine
+époprosténol sodique
+dlhydrogenomalate dalmotriptan
+noradrénaline
+pantoprazole sodique sesquihydraté
+cefpodoxime proxetil
+trimetazidine
+amiodarone
+mycophenolate sodique
+chlorphénamine
+tolvaptan
+dexmedetomidine
+borique
+finasteride
+lacosamide
+ivermectine
+acebutolol
+aripiprazole
+lanreotide
+rivaroxaban
+lopinavir
+adrenaline 
+pramipexole  monohydraté
+zolpidem
+oxomémazine
+dabigatran etexilate
+azathioprine
+duloxétine
+esmolol
+dropéridol
+fumarate de dimethyle
+urapidil
+arsenic trioxide
+oxycodone
+bortezomib
+fingolimod
+carvedilol
+abacavir 
+methylprednisolone
+raloxifène
+tirofiban  monohydraté
+milrinone
+ondansetron  dihydrate
+rasagiline 
+terbinafine
+buflomedil
+doxazosine
+flutamide
+palonosetron
+lamivudine
+lactulose
+levofolinate de calcium
+flurbiprofène
+glimepiride
+telmisartan
+buprenorphine
+clofarabine
+racécadotril
+desloratadine
+lidocaïne
+fluvoxamine
+alfuzosine
+céfuroxime sodique
+flumazenil
+naloxone
+iopamidol
+verapamil
+simvastatine
+borax
+isotretinoïne
+ezetimibe
+bilastine
+ibandronate monosodique monohydraté
+eslicarbazepine
+cefuroxime axetil
+metformine
+thalidomide
+cefotaxime sodique
+atazanavir
+nébivolol
+fexofenadine
+captopril
+lévothyroxine sodique
+amoxicilline
+quétiapine
+alendronate monosodique
+atovaquone
+saxagliptine
+tenofovir disoproxil  efavirenz
+cefadroxil
+mirtazapine
+loperamide
+mométasone  monohydraté
+acamprosate calcique
+clotrimazole
+hydroxyzine
+cidofovir dihydrate
+norfloxacine
+topotécane
+capécitabine
+beclometasone
+tamsulosine
+furosemide
+sodium
+terlipressine
+tetrazepam
+sapropterine
+carbidopa
+fenofibrate
+miglustat
+calcifediol
+cyproterone
+mebeverine
+deferiprone
+naftidrofuryl  ou
+cefixime trihydrate
+metopimazine
+macrogol
+ciprofibrate
+hydrochlorothiazide
+meloxicam
+cimetidine
+gabapentine
+bléomycine
+gefitinib
+paclitaxel
+paraffine liquide
+tapentadol 
+pravastatine sodique
+cilastatine sodique
+ketotifène
+alfentanyl
+ibuprofene
+atosiban
+rilmenidine
+mianserine
+salbutamol
+estradiol hemihydrate
+clomipramine
+fampridine
+methotrexate
+adénosine
+étonogestrel
+piroxicam
+ambroxol
+cyclophosphamide
+trandolapril
+drospirenone
+valsartan
+altizide
+etifoxine
+céfoxitine sodique
+salmeterol
+valproate de sodium
+indapamide
+oxybutynine
+diacéréine
+proguanil
+prégabaline
+bensérazide
+linagliptine
+zolmitriptan
+icatibant
+tétrabénazine
+pazopanib
+prilocaine
+articaïne
+povidone iodee
+mupirocine
+oseltamivir
+glycérol
+thiotepa
+pinaverium
+témozolomide
+epirubicine
+fluoxetine
+ibuprofène
+calcipotriol monohydrate
+adrénaline
+tiapride
+sulpiride
+chlorure de potassium
+teriparatide
+lercanidipine
+apixaban
+fenticonazole
+tenofovir disoproxil 
+omeprazole sodique
+fosinopril
+sotalol
+clindamycine
+magnésium  dihydraté
+lisinopril dihydrate
+trimebutine
+chlorhexidine
+ciclopirox
+paracétamol
+dasatinib 
+solution de glucose
+caspofungine
+levocarnitine
+carbocisteine
+teicoplanine
+zidovudine
+roxithromycine
+minoxidil
+adapalène
+zonisamide
+itraconazole
+tibolone
+felodipine
+chlorhydrate de bendamustine
+ambrisentan
+propafenone
+chlorhydrate de lidocaïne
+folinate de calcium
+perindopril arginine
+ofloxacine
+sertaconazole
+econazole
+risédronate monosodique hémipentahydraté  anhydre
+irbésartan
+idarubicine
+tianeptine sodique
+dextrométhorphane
+alvérine
+acide gadotérique
+febuxostat
+imatinib
+quinapril
+acide ursodesoxycholique
+paroxetine
+ertapenem sodique
+dienogest
+pholcodine
+méropénem trihydraté
+clozapine
+azithromycine dihydrate
+propranolol
+rupatadine
+acide fusidique
+aceclofenac
+manidipine
+rivastigmine
+rizatriptan
+efavirenz
+azacitidine
+bupivacaïne
+posaconazole
+rabéprazole sodique
+alitretinoine
+trospium
+lévobupivacaïne
+progesterone
+tobramycine
+bivalirudine  hydrate
+acide acetylsalicylique
+nomegestrol
+bésilate datracurium
+ceftriaxone
+gestodene
+orlistat
+rosuvastatine calcique  zincique
+isosorbide
+lansoprazole
+agomelatine  acide citrique uree
+venlafaxine
+siméticone
+dihydroergotamine
+sévélamer
+riluzole
+pyridoxine
+glipizide
+bétaméthasone
+celiprolol
+cytarabine
+docétaxel trihydraté 
+trolamine
+diproprionate de betamethasone
+cholecalciferol
+bétaïne  anhydre
+bétaxolol
+norgestimate
+acarbose
+desogestrel
+divalproate de sodium
+fondaparinux sodique
+alcool benzylique
+oxcarbazepine
+terazosine
+tixocortol
+thiocolchicoside
+fludarabine
+nebivolol
+apomorphine
+ésoméprazole magnésium trihydraté
+demeclocycline
+candésartan cilexétil
+drospirénone
+irinotécan  trihydraté
+phloroglucinol 
+tamoxifene
+fosinopril sodique
+vinorelbine 
+moxonidine
+acétylleucine
+lacidipine
+ipratropium
+aciclovir
+benazepril
+fosfomycine trométamol  sodique
+troxerutine
+fulvestrant
+formoterol  dihydrate
+létrozole
+amylmetacresol
+foscarnet sodique hexahydrate
+pirfenidone
+prednisone
+clarithromycine
+pentamidine
+amifampridine
+sucralfate
+levocetirizine
+vaseline
+péthidine
+trimethoprime
+entacapone
+sildénafil
+hexamidine
+solifenacine
+cinacalcet
+diltiazem
+éthinylestradiol bétadexclathrate
+alprazolam
+metoprolol
+valaciclovir
+atropine sulfate
+dorzolamide
+hydrocortisone
+bromure de rocuronium
+ritonavir
+galantamine
+risperidone
+mesna
+betamethasone
+toltérodine
+thiopental et carbonate sodiques
+ciclopirox olamine
+fluticasone
+cholecalciferol  alendronate de sodium monohydrate
+célécoxib
+ganirelix
+mycophénolate mofétil
+nicardipine
+spiramycine
+ciclétanine
+diazepam
+sufentanil
+busulfan
+éthinylestradiol
+timolol
+vitamine b
+melatonine
+oxytocine
+bisoprolol 
+cefaclor
+sumatriptan
+levonorgestrel
+rémifentanil
+tacrolimus
+metronidazole
+étoricoxib
+hexétidine
+clavulanate de potassium
+brinzolamide
+amisulpride
+néfopam
+perindopril tertbutylamine
+sunitinib 
+bicalutamide
+oxaliplatine
+deferasirox
+entecavir
+fluconazole
+sugammadex sodique
+iloprost
+nicotine
+triméthylphloroglucinol
+terbutaline
+sevoflurane
+fesoterodine
+carboplatine
+alendronate monosodique trihydrate
+prazépam
+lormétazépam
+vancomycine
+brimonidine
+dexamethasone
+donépézil
+linézolide
+metoclopramide
+ciprofloxacine
+cabazitaxel
+doxycycline
+paliperidone
+clopidogrel  monohydrate
+bimatoprost
+colistimethate sodique
+chlormadinone
+enalapril
+solution dacides amines
+bosentan monohydraté
+ornithine
+mémantine
+etoposide
+bénazépril
+léflunomide
+carbomere
+minocycline
+oméga
+alprostadil
+dexpanthénol
+alginate de sodium
+oxybate de sodium
+nimodipine
+lenalidomide  hydrate
+cetirizine
+atorvastatine calcique trihydratée
+phéniramine
+nicergoline
+mitoxantrone
+olanzapine
+naproxene sodique
+loratadine
+lymécycline
+travoprost
+mepivacaine
+ticlopidine
+lévétiracétam
+lanthane  hydrate
+sulfamethoxazole
+erythromycine
+emtricitabine
+ceftazidime
+cromoglicate de sodium
+piracetam
+codeine  hemihydrate
+diclofenac sodique
+tenofovir disoproxil
+zopiclone
+kétamine
+fentanyl
+acide carglumique
+ticagrelor
+midodrine
+nicorandil
+bésilate de cisatracurium
+gliclazide
+méthylphénidate
+bexarotene
+amlodipine
+dutasteride
+pyrantel
+vildagliptine
+desmopressine
+bisoprolol
+cabergoline
+emulsion lipidique
+abacavir
+bromazepam
+cisplatine
+silodosine
+glucose
+doxorubicine
+atenolol
+losartan potassium
+lévodopa
+isoprenaline
+melphalan 
+ramipril
+dexrazoxane
+tenofovir disoproxil  emtricitabine
+naratriptan
+nifuroxazide
+acide ascorbique
+lidocaine
+amiloride
+acétylcystéine
+pemetrexed disodique 
+topiramate
+dobutamine
+sorafenib
+valganciclovir
+fluorouracile
+famotidine
+latanoprost
+kétoconazole
+montélukast sodique
+nitisinone
+treprostinil sodique
+erlotinib
+acide folique
+darunavir 
+pentoxifylline
+tramadol
+daptomycine
+ropivacaïne  monohydrate
+ranitidine
+ésoméprazole sodique
+citalopram
+ketoprofene
+mométasone
+désogestrel
+imipénem monohydraté
+omeprazole magnesium
+ganciclovir sodique
+molsidomine
+ondansetron
+cyamemazine
+lévofloxacine hémihydratée
+frovatriptan  monohydraté
+céfépime  monohydraté
+micafungine sodique
+sitagliptine
+zofénopril calcique
+mitomycine c
+eptifibatide
+névirapine anhydre
+aprepitant
+midazolam
+nitrendipine
+éfavirenz
+omeprazole
+spironolactone
+perindopril tertbutylamine  arginine
