@@ -63,3 +63,5 @@ The CSV file finally generated contains the predictions performed by the model a
 Predictions performed by the NER CamemBERT model can be improved with an additionnal layer involving RegEx and if statements based on the naive version described above.
 
 The steps are defined in the notebook standing at [code/model/regex_layer.ipynb](code/model/regex_layer.ipynb)
+
+@François Schmerber, Pierre de Boisredon, Thomas Kessous, Sylvain Delgendre, Clément Girault
