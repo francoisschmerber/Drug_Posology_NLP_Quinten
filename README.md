@@ -64,4 +64,6 @@ Predictions performed by the NER CamemBERT model can be improved with an additio
 
 The steps are defined in the notebook standing at [code/model/regex_layer.ipynb](code/model/regex_layer.ipynb)
 
+The data we used is not available in this repository 🔒
+
 @François Schmerber, Pierre de Boisredon, Thomas Kessous, Sylvain Delgendre, Clément Girault
